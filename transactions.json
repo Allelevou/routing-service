@@ -1,0 +1,68 @@
+[
+  {
+    "id": "t_1",
+    "amountMinor": 125000,
+    "currency": "ZAR",
+    "originCountry": "ZA",
+    "destinationCountry": "ZA",
+    "scheme": "visa",
+    "fundingType": "debit",
+    "mcc": "4722",
+    "idempotencyKey": "idem_t1"
+  },
+  {
+    "id": "t_2",
+    "amountMinor": 56000,
+    "currency": "USD",
+    "originCountry": "US",
+    "destinationCountry": "ZA",
+    "scheme": "mastercard",
+    "fundingType": "credit",
+    "mcc": "7011",
+    "idempotencyKey": "idem_t2"
+  },
+  {
+    "id": "t_3",
+    "amountMinor": 99000,
+    "currency": "ZAR",
+    "originCountry": "BW",
+    "destinationCountry": "ZA",
+    "scheme": "mastercard",
+    "fundingType": "debit",
+    "mcc": "7999",
+    "idempotencyKey": "idem_t3"
+  },
+  {
+    "id": "t_4",
+    "amountMinor": 45000,
+    "currency": "EUR",
+    "originCountry": "DE",
+    "destinationCountry": "ZA",
+    "scheme": "visa",
+    "fundingType": "credit",
+    "mcc": "4722",
+    "idempotencyKey": "idem_t4"
+  },
+  {
+    "id": "t_5",
+    "amountMinor": 200000,
+    "currency": "ZAR",
+    "originCountry": "ZA",
+    "destinationCountry": "ZA",
+    "scheme": "amex",
+    "fundingType": "credit",
+    "mcc": "7011",
+    "idempotencyKey": "idem_t5"
+  },
+  {
+    "id": "t_6",
+    "amountMinor": 77500,
+    "currency": "USD",
+    "originCountry": "US",
+    "destinationCountry": "US",
+    "scheme": "visa",
+    "fundingType": "debit",
+    "mcc": "4511",
+    "idempotencyKey": "idem_t6"
+  }
+]

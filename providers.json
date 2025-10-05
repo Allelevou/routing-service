@@ -1,0 +1,89 @@
+{
+  "providers": [
+    {
+      "id": "AcqA",
+      "regions": [
+        "ZA"
+      ],
+      "currencies": [
+        "ZAR",
+        "USD"
+      ],
+      "schemes": [
+        "visa",
+        "mastercard"
+      ],
+      "funding": [
+        "debit",
+        "credit"
+      ],
+      "baseWeight": 70,
+      "costBps": 180,
+      "status": "healthy"
+    },
+    {
+      "id": "AcqB",
+      "regions": [
+        "ZA",
+        "EU",
+        "US"
+      ],
+      "currencies": [
+        "ZAR",
+        "USD",
+        "EUR"
+      ],
+      "schemes": [
+        "visa",
+        "mastercard",
+        "amex"
+      ],
+      "funding": [
+        "debit",
+        "credit"
+      ],
+      "baseWeight": 30,
+      "costBps": 200,
+      "status": "healthy"
+    },
+    {
+      "id": "AcqC",
+      "regions": [
+        "US"
+      ],
+      "currencies": [
+        "USD"
+      ],
+      "schemes": [
+        "visa"
+      ],
+      "funding": [
+        "debit",
+        "credit"
+      ],
+      "baseWeight": 50,
+      "costBps": 150,
+      "status": "healthy"
+    },
+    {
+      "id": "AcqD",
+      "regions": [
+        "EU"
+      ],
+      "currencies": [
+        "EUR"
+      ],
+      "schemes": [
+        "visa",
+        "mastercard"
+      ],
+      "funding": [
+        "debit",
+        "credit"
+      ],
+      "baseWeight": 60,
+      "costBps": 170,
+      "status": "healthy"
+    }
+  ]
+}
