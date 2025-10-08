@@ -66,3 +66,6 @@
     "idempotencyKey": "idem_t6"
   }
 ]
+
+
+baseWeight * (max_cost_bps / costBps)
